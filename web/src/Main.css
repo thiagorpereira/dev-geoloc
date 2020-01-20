@@ -1,0 +1,17 @@
+main {
+  flex: 1; /*Ocupar total*/
+}
+
+main ul {
+  display: grid;
+  /* grid-template-columns: 1fr 1fr; */
+  grid-template-columns: repeat(2, 1fr); /*2 colunas 50 %*/
+  gap: 20px; /*espaço lateral e abaixo;isolado = solum-gap ou row-gap*/ 
+  list-style: none;
+}
+
+@media(max-width: 650px) {
+  main ul {
+    grid-template-columns: 1fr;
+  }
+}
