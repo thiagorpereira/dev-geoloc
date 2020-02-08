@@ -6,14 +6,18 @@
   Find developers close to you that use the same technologies.
 </h4>
 
-## Web
+<h1 align="center">
+  Web
+</h1>
 <div align="center"><img src=".github/dev-geoloc-react.png" alt="drawing" /></div>
 
-## Mobile
+<h1 align="center">
+  Mobile
+</h1>
 <p float="left" align="middle">
-  <img src=".github/search-dev.jpg" alt="drawing" width="300px" />
-  <img src=".github/desc-dev.jpg" alt="drawing" width="300px"/>
-  <img src=".github/profile.jpg" alt="drawing" width="300px"/>
+  <img src=".github/search-dev.jpg" alt="drawing" width="250px" />
+  <img src=".github/desc-dev.jpg" alt="drawing" width="250px"/>
+  <img src=".github/profile.jpg" alt="drawing" width="250px"/>
 </p>
 
 
